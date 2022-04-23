@@ -1,0 +1,2026 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.2)  25 APR 2021 15:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**document.tex
+(./document.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box47
+\extrarowheight=\dimen140
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box48
+)
+(c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/kantlipsum/kantlipsum.sty
+(c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count187
+\l__pdf_internal_box=\box49
+))
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
+Package: kantlipsum 2019/07/23 v0.8 Generate text in Kantian style
+\l__kgl_start_int=\count188
+\l__kgl_end_int=\count189
+
+Package kantlipsum Info: The package provides paragraphs 1 to 164. Values
+(kantlipsum)             outside this range will be ignored.
+
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen141
+))
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip17
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks19
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks20
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen150
+\pgfutil@tempdimb=\dimen151
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box52
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen154
+\pgf@y=\dimen155
+\pgf@xa=\dimen156
+\pgf@ya=\dimen157
+\pgf@xb=\dimen158
+\pgf@yb=\dimen159
+\pgf@xc=\dimen160
+\pgf@yc=\dimen161
+\pgf@xd=\dimen162
+\pgf@yd=\dimen163
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count268
+\c@pgf@countb=\count269
+\c@pgf@countc=\count270
+\c@pgf@countd=\count271
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+\pgf@sys@id@count=\count272
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count273
+\pgfsyssoftpath@bigbuffer@items=\count274
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen164
+\pgfmath@count=\count275
+\pgfmath@box=\box53
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count276
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen165
+\pgf@picmaxx=\dimen166
+\pgf@picminy=\dimen167
+\pgf@picmaxy=\dimen168
+\pgf@pathminx=\dimen169
+\pgf@pathmaxx=\dimen170
+\pgf@pathminy=\dimen171
+\pgf@pathmaxy=\dimen172
+\pgf@xx=\dimen173
+\pgf@xy=\dimen174
+\pgf@yx=\dimen175
+\pgf@yy=\dimen176
+\pgf@zx=\dimen177
+\pgf@zy=\dimen178
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen179
+\pgf@path@lasty=\dimen180
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen181
+\pgf@shorten@start@additional=\dimen182
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count277
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen183
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen184
+\pgf@pt@y=\dimen185
+\pgf@pt@temp=\dimen186
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen187
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen188
+\pgf@sys@shading@range@num=\count278
+\pgf@shadingcount=\count279
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box57
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box58
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen189
+\pgf@nodesepend=\dimen190
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count280
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikz@lastmovetox=\dimen198
+\tikz@lastmovetoy=\dimen199
+\tikzleveldistance=\dimen256
+\tikzsiblingdistance=\dimen257
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count281
+\tikznumberofchildren=\count282
+\tikznumberofcurrentchild=\count283
+\tikz@fig@count=\count284
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count285
+\pgfmatrixcurrentcolumn=\count286
+\pgf@matrix@numberofcolumns=\count287
+)
+\tikz@expandcount=\count288
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(c:/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks36
+\t@pgfplots@tokb=\toks37
+\t@pgfplots@tokc=\toks38
+\pgfplots@tmpa=\dimen258
+\c@pgfplots@coordindex=\count289
+\c@pgfplots@scanlineindex=\count290
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
+x))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_loader.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+cture.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+ctureext.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
+de.tex
+\c@pgfplotsarray@tmp=\count291
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
+ode.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
+ode.tex
+\c@pgfplotstable@counta=\count292
+\t@pgfplotstable@a=\toks39
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
+de.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.
+tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.te
+x)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
+ading.code.tex
+\c@pgfplotslibrarysurf@no=\count293
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-pdftex.def)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.t
+ex
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+))) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.t
+ex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+ex
+\pgfdecoratedcompleteddistance=\dimen259
+\pgfdecoratedremainingdistance=\dimen260
+\pgfdecoratedinputsegmentcompleteddistance=\dimen261
+\pgfdecoratedinputsegmentremainingdistance=\dimen262
+\pgf@decorate@distancetomove=\dimen263
+\pgf@decorate@repeatstate=\count294
+\pgfdecorationsegmentamplitude=\dimen264
+\pgfdecorationsegmentlength=\dimen265
+)
+\tikz@lib@dec@box=\box63
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathreplacing.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathreplacing.code.tex))
+\pgfplots@numplots=\count295
+\pgfplots@xmin@reg=\dimen266
+\pgfplots@xmax@reg=\dimen267
+\pgfplots@ymin@reg=\dimen268
+\pgfplots@ymax@reg=\dimen269
+\pgfplots@zmin@reg=\dimen270
+\pgfplots@zmax@reg=\dimen271
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
+tex
+File: pgflibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (c:/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count296
+\calc@Bcount=\count297
+\calc@Adimen=\dimen272
+\calc@Bdimen=\dimen273
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count298
+\calc@Cskip=\skip56
+)
+(c:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count299
+\l_MT_multwidth_dim=\dimen274
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen275
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen276
+\l_MT_above_intertext_sep=\dimen277
+\l_MT_below_intertext_sep=\dimen278
+\l_MT_above_shortintertext_sep=\dimen279
+\l_MT_below_shortintertext_sep=\dimen280
+\xmathstrut@box=\box64
+\xmathstrut@dim=\dimen281
+)
+(c:/texlive/2020/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count300
+)
+(c:/texlive/2020/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(c:/texlive/2020/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\c@abspage=\count301
+Package zref Info: New property: abspage on input line 66.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip58
+\c@mdf@globalstyle@cnt=\count302
+\mdf@skipabove@length=\skip59
+\mdf@skipbelow@length=\skip60
+\mdf@leftmargin@length=\skip61
+\mdf@rightmargin@length=\skip62
+\mdf@innerleftmargin@length=\skip63
+\mdf@innerrightmargin@length=\skip64
+\mdf@innertopmargin@length=\skip65
+\mdf@innerbottommargin@length=\skip66
+\mdf@splittopskip@length=\skip67
+\mdf@splitbottomskip@length=\skip68
+\mdf@outermargin@length=\skip69
+\mdf@innermargin@length=\skip70
+\mdf@linewidth@length=\skip71
+\mdf@innerlinewidth@length=\skip72
+\mdf@middlelinewidth@length=\skip73
+\mdf@outerlinewidth@length=\skip74
+\mdf@roundcorner@length=\skip75
+\mdf@footenotedistance@length=\skip76
+\mdf@userdefinedwidth@length=\skip77
+\mdf@needspace@length=\skip78
+\mdf@frametitleaboveskip@length=\skip79
+\mdf@frametitlebelowskip@length=\skip80
+\mdf@frametitlerulewidth@length=\skip81
+\mdf@frametitleleftmargin@length=\skip82
+\mdf@frametitlerightmargin@length=\skip83
+\mdf@shadowsize@length=\skip84
+\mdf@extratopheight@length=\skip85
+\mdf@subtitleabovelinewidth@length=\skip86
+\mdf@subtitlebelowlinewidth@length=\skip87
+\mdf@subtitleaboveskip@length=\skip88
+\mdf@subtitlebelowskip@length=\skip89
+\mdf@subtitleinneraboveskip@length=\skip90
+\mdf@subtitleinnerbelowskip@length=\skip91
+\mdf@subsubtitleabovelinewidth@length=\skip92
+\mdf@subsubtitlebelowlinewidth@length=\skip93
+\mdf@subsubtitleaboveskip@length=\skip94
+\mdf@subsubtitlebelowskip@length=\skip95
+\mdf@subsubtitleinneraboveskip@length=\skip96
+\mdf@subsubtitleinnerbelowskip@length=\skip97
+
+(c:/texlive/2020/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box65
+\mdf@footnotebox=\box66
+\mdf@splitbox@one=\box67
+\mdf@splitbox@two=\box68
+\mdf@splitbox@save=\box69
+\mdfsplitboxwidth=\skip98
+\mdfsplitboxtotalwidth=\skip99
+\mdfsplitboxheight=\skip100
+\mdfsplitboxdepth=\skip101
+\mdfsplitboxtotalheight=\skip102
+\mdfframetitleboxwidth=\skip103
+\mdfframetitleboxtotalwidth=\skip104
+\mdfframetitleboxheight=\skip105
+\mdfframetitleboxdepth=\skip106
+\mdfframetitleboxtotalheight=\skip107
+\mdffootnoteboxwidth=\skip108
+\mdffootnoteboxtotalwidth=\skip109
+\mdffootnoteboxheight=\skip110
+\mdffootnoteboxdepth=\skip111
+\mdffootnoteboxtotalheight=\skip112
+\mdftotallinewidth=\skip113
+\mdfboundingboxwidth=\skip114
+\mdfboundingboxtotalwidth=\skip115
+\mdfboundingboxheight=\skip116
+\mdfboundingboxdepth=\skip117
+\mdfboundingboxtotalheight=\skip118
+\mdf@freevspace@length=\skip119
+\mdf@horizontalwidthofbox@length=\skip120
+\mdf@verticalmarginwhole@length=\skip121
+\mdf@horizontalspaceofbox=\skip122
+\mdfsubtitleheight=\skip123
+\mdfsubsubtitleheight=\skip124
+\c@mdfcountframes=\count303
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count304
+\c@mdf@env@i=\count305
+\c@mdf@env@ii=\count306
+\c@mdf@zref@counter=\count307
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/picture/picture.sty
+Package: picture 2020-04-22 v1.6 Dimens for picture macros (HO)
+Package picture Info: Calculation method: calc.
+) (./document.aux
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+
+LaTeX Warning: Label `fig:boat1' multiply defined.
+
+)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+ (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen282
+\scratchbox=\box70
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen283
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks41
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 19.
+
+(./document.toc)
+\tf@toc=\write4
+\openout4 = `document.toc'.
+
+ [1
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+[2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+[3]
+<Imazhet/momenti.png, id=27, 1678.27pt x 774.895pt>
+File: Imazhet/momenti.png Graphic file (type png)
+<use Imazhet/momenti.png>
+Package pdftex.def Info: Imazhet/momenti.png  used on input line 334.
+(pdftex.def)             Requested size: 142.26378pt x 65.68193pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
+
+<Imazhet/procesi_izotermik.jpg, id=29, 784.9325pt x 713.66624pt>
+File: Imazhet/procesi_izotermik.jpg Graphic file (type jpg)
+<use Imazhet/procesi_izotermik.jpg>
+Package pdftex.def Info: Imazhet/procesi_izotermik.jpg  used on input line 397.
+
+(pdftex.def)             Requested size: 113.81102pt x 103.4735pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 404--406
+[]\OT1/cmr/m/n/10 N^^?e pro-cesin izo-horik V (V^^?ellimi) ^^?esht^^?e kon-
+ []
+
+<Imazhet/procesi izohorik.png, id=30, 355.3275pt x 350.81062pt>
+File: Imazhet/procesi izohorik.png Graphic file (type png)
+<use Imazhet/procesi izohorik.png>
+Package pdftex.def Info: Imazhet/procesi izohorik.png  used on input line 408.
+(pdftex.def)             Requested size: 85.35826pt x 84.2712pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imazhet/procesi izohorik1.png, id=31, 355.3275pt x 350.81062pt>
+File: Imazhet/procesi izohorik1.png Graphic file (type png)
+<use Imazhet/procesi izohorik1.png>
+Package pdftex.def Info: Imazhet/procesi izohorik1.png  used on input line 414.
+
+(pdftex.def)             Requested size: 113.81102pt x 112.36339pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
+
+ []
+
+[4 <./Imazhet/momenti.png>]
+<Imazhet/procesi izobarik.png, id=36, 370.38374pt x 357.58594pt>
+File: Imazhet/procesi izobarik.png Graphic file (type png)
+<use Imazhet/procesi izobarik.png>
+Package pdftex.def Info: Imazhet/procesi izobarik.png  used on input line 427.
+(pdftex.def)             Requested size: 113.81102pt x 109.87381pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+[5 <./Imazhet/procesi_izotermik.jpg> <./Imazhet/procesi izohorik.png> <./Imazhe
+t/Procesi izohorik1.png> <./Imazhet/Procesi izobarik.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
+
+ []
+
+[6]
+Underfull \hbox (badness 1400) in paragraph at lines 655--656
+[]\OT1/cmr/m/n/10 Shtypje:forca q^^?e ve-pron pin-gule me nj^^?esin^^?e e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--710
+[]\OT1/cmr/bx/n/10 Ngarkesat poz-i-tive: \OT1/cmr/m/n/10 Ngarke-sat poz-i-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 711--714
+[]\OT1/cmr/bx/n/10 Ngarkesat neg-a-tive: \OT1/cmr/m/n/10 Ngarke-sat neg-a-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--870
+
+ []
+
+<Imazhet/Lidhjet ne seri.png, id=50, 257.46187pt x 91.84312pt>
+File: Imazhet/Lidhjet ne seri.png Graphic file (type png)
+<use Imazhet/Lidhjet ne seri.png>
+Package pdftex.def Info: Imazhet/Lidhjet ne seri.png  used on input line 889.
+(pdftex.def)             Requested size: 142.26378pt x 50.7493pt.
+<Imazhet/Lidhjet paralele.png, id=51, 216.81pt x 208.52907pt>
+File: Imazhet/Lidhjet paralele.png Graphic file (type png)
+<use Imazhet/Lidhjet paralele.png>
+Package pdftex.def Info: Imazhet/Lidhjet paralele.png  used on input line 911.
+(pdftex.def)             Requested size: 85.35826pt x 82.0992pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--921
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
+
+ []
+
+[8 <./Imazhet/Lidhjet ne seri.png> <./Imazhet/Lidhjet paralele.png>]
+<Imazhet/rryma e ngarkuar e vazhduar.png, id=58, 371.13657pt x 346.29375pt>
+File: Imazhet/rryma e ngarkuar e vazhduar.png Graphic file (type png)
+<use Imazhet/rryma e ngarkuar e vazhduar.png>
+Package pdftex.def Info: Imazhet/rryma e ngarkuar e vazhduar.png  used on input
+ line 942.
+(pdftex.def)             Requested size: 142.26378pt x 132.73961pt.
+<Imazhet/Rryma alternative.png, id=59, 1415.2875pt x 1341.01pt>
+File: Imazhet/Rryma alternative.png Graphic file (type png)
+<use Imazhet/Rryma alternative.png>
+Package pdftex.def Info: Imazhet/Rryma alternative.png  used on input line 952.
+
+(pdftex.def)             Requested size: 128.0374pt x 121.29955pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 974--975
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--978
+
+ []
+
+<Imazhet/bateria.png, id=60, 1411.2725pt x 1445.4pt>
+File: Imazhet/bateria.png Graphic file (type png)
+<use Imazhet/bateria.png>
+Package pdftex.def Info: Imazhet/bateria.png  used on input line 982.
+(pdftex.def)             Requested size: 142.26378pt x 145.69533pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1013--1014
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1016
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1018
+
+ []
+
+[9 <./Imazhet/rryma e ngarkuar e vazhduar.png> <./Imazhet/Rryma alternative.png
+> <./Imazhet/bateria.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1043
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1127--1128
+
+ []
+
+<Imazhet/qarku seri.png, id=67, 1186.4325pt x 879.285pt>
+File: Imazhet/qarku seri.png Graphic file (type png)
+<use Imazhet/qarku seri.png>
+Package pdftex.def Info: Imazhet/qarku seri.png  used on input line 1136.
+(pdftex.def)             Requested size: 128.0374pt x 94.88354pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1147--1148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1156
+
+ []
+
+[10 <./Imazhet/qarku seri.png>]
+<Imazhet/qarku paralel.png, id=72, 1828.8325pt x 879.285pt>
+File: Imazhet/qarku paralel.png Graphic file (type png)
+<use Imazhet/qarku paralel.png>
+Package pdftex.def Info: Imazhet/qarku paralel.png  used on input line 1162.
+(pdftex.def)             Requested size: 156.49014pt x 75.22795pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1173--1174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1177--1178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1182
+
+ []
+
+<Imazhet/Lidhja e shkurter.png, id=73, 1750.54pt x 1141.26375pt>
+File: Imazhet/Lidhja e shkurter.png Graphic file (type png)
+<use Imazhet/Lidhja e shkurter.png>
+Package pdftex.def Info: Imazhet/Lidhja e shkurter.png  used on input line 1187
+.
+(pdftex.def)             Requested size: 170.71652pt x 111.29453pt.
+<Imazhet/fusha_magnetike.png, id=74, 346.29375pt x 218.8175pt>
+File: Imazhet/fusha_magnetike.png Graphic file (type png)
+<use Imazhet/fusha_magnetike.png>
+Package pdftex.def Info: Imazhet/fusha_magnetike.png  used on input line 1194.
+(pdftex.def)             Requested size: 142.26378pt x 89.89604pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Imazhet/goditesi.png, id=75, 1693.32625pt x 1178.4025pt>
+File: Imazhet/goditesi.png Graphic file (type png)
+<use Imazhet/goditesi.png>
+Package pdftex.def Info: Imazhet/goditesi.png  used on input line 1239.
+(pdftex.def)             Requested size: 170.71652pt x 118.80014pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1245
+
+ []
+
+[11 <./Imazhet/qarku paralel.png> <./Imazhet/Lidhja e shkurter.png> <./Imazhet/
+fusha_magnetike.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1279--1280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1289--1290
+
+ []
+
+<Imazhet/faraday law.jpg, id=82, 263.48438pt x 190.46156pt>
+File: Imazhet/faraday law.jpg Graphic file (type jpg)
+<use Imazhet/faraday law.jpg>
+Package pdftex.def Info: Imazhet/faraday law.jpg  used on input line 1295.
+(pdftex.def)             Requested size: 170.71652pt x 123.4091pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1314--1315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1344--1345
+
+ []
+
+[12 <./Imazhet/goditesi.png> <./Imazhet/faraday law.jpg>]
+<Imazhet/lekundjet.png, id=87, 1668.2325pt x 1069.9975pt>
+File: Imazhet/lekundjet.png Graphic file (type png)
+<use Imazhet/lekundjet.png>
+Package pdftex.def Info: Imazhet/lekundjet.png  used on input line 1387.
+(pdftex.def)             Requested size: 227.62204pt x 145.99448pt.
+<Imazhet/lekundjet pa faz.png, id=88, 1508.63625pt x 1014.79124pt>
+File: Imazhet/lekundjet pa faz.png Graphic file (type png)
+<use Imazhet/lekundjet pa faz.png>
+Package pdftex.def Info: Imazhet/lekundjet pa faz.png  used on input line 1466.
+
+(pdftex.def)             Requested size: 142.26378pt x 95.69388pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
+
+ []
+
+[13 <./Imazhet/Lekundjet.png> <./Imazhet/Lekundjet pa faz.png>]
+<Imazhet/lekundjet me faz.png, id=97, 1508.63625pt x 1014.79124pt>
+File: Imazhet/lekundjet me faz.png Graphic file (type png)
+<use Imazhet/lekundjet me faz.png>
+Package pdftex.def Info: Imazhet/lekundjet me faz.png  used on input line 1478.
+
+(pdftex.def)             Requested size: 142.26378pt x 95.69388pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1482--1483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1518--1519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1527--1528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1529--1530
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1531--1532
+
+ []
+
+<Imazhet/Qarku R.png, id=98, 575.14874pt x 999.735pt>
+File: Imazhet/Qarku R.png Graphic file (type png)
+<use Imazhet/Qarku R.png>
+Package pdftex.def Info: Imazhet/Qarku R.png  used on input line 1539.
+(pdftex.def)             Requested size: 85.35826pt x 148.36728pt.
+<Imazhet/Grafik R.png, id=99, 1782.66pt x 690.58pt>
+File: Imazhet/Grafik R.png Graphic file (type png)
+<use Imazhet/Grafik R.png>
+Package pdftex.def Info: Imazhet/Grafik R.png  used on input line 1553.
+(pdftex.def)             Requested size: 199.16928pt x 77.15475pt.
+<Imazhet/Vektor R.png, id=100, 1648.1575pt x 272.01625pt>
+File: Imazhet/Vektor R.png Graphic file (type png)
+<use Imazhet/Vektor R.png>
+Package pdftex.def Info: Imazhet/Vektor R.png  used on input line 1562.
+(pdftex.def)             Requested size: 199.16928pt x 32.86882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1579
+
+ []
+
+[14 <./Imazhet/Lekundjet me faz.png> <./Imazhet/Qarku R.png> <./Imazhet/Grafik 
+R.png> <./Imazhet/Vektor R.png>]
+<Imazhet/Qarku L.png, id=108, 587.19376pt x 658.46pt>
+File: Imazhet/Qarku L.png Graphic file (type png)
+<use Imazhet/Qarku L.png>
+Package pdftex.def Info: Imazhet/Qarku L.png  used on input line 1585.
+(pdftex.def)             Requested size: 85.35826pt x 95.71036pt.
+<Imazhet/Grafik L.png, id=109, 1785.67125pt x 627.34375pt>
+File: Imazhet/Grafik L.png Graphic file (type png)
+<use Imazhet/Grafik L.png>
+Package pdftex.def Info: Imazhet/Grafik L.png  used on input line 1602.
+(pdftex.def)             Requested size: 199.16928pt x 69.96527pt.
+<Imazhet/Vektor L.png, id=110, 1036.87375pt x 808.01875pt>
+File: Imazhet/Vektor L.png Graphic file (type png)
+<use Imazhet/Vektor L.png>
+Package pdftex.def Info: Imazhet/Vektor L.png  used on input line 1610.
+(pdftex.def)             Requested size: 113.81102pt x 88.68506pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1622--1623
+
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 1627--1628
+[]\OT1/cmr/m/it/10 "P^^?ershkak t^^?e forc^^?es elek-tro-mo-tore t^^?e in-duk-
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 1627--1628
+\OT1/cmr/m/it/10 mak-si-mal,rryma(I) ar-rin^^?e vler^^?en mak-si-male kur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
+
+ []
+
+<Imazhet/Qarku C.jpg, id=111, 717.68124pt x 625.33624pt>
+File: Imazhet/Qarku C.jpg Graphic file (type jpg)
+<use Imazhet/Qarku C.jpg>
+Package pdftex.def Info: Imazhet/Qarku C.jpg  used on input line 1636.
+(pdftex.def)             Requested size: 142.26378pt x 123.95818pt.
+<Imazhet/Grafik C.png, id=112, 1710.39pt x 578.16pt>
+File: Imazhet/Grafik C.png Graphic file (type png)
+<use Imazhet/Grafik C.png>
+Package pdftex.def Info: Imazhet/Grafik C.png  used on input line 1649.
+(pdftex.def)             Requested size: 199.16928pt x 67.32068pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1658--1659
+
+ []
+
+[15 <./Imazhet/Qarku L.png> <./Imazhet/Grafik L.png> <./Imazhet/Vektor L.png> <
+./Imazhet/Qarku C.jpg> <./Imazhet/Grafik C.png>]
+<Imazhet/Vektor C.png, id=120, 1141.26375pt x 907.39pt>
+File: Imazhet/Vektor C.png Graphic file (type png)
+<use Imazhet/Vektor C.png>
+Package pdftex.def Info: Imazhet/Vektor C.png  used on input line 1668.
+(pdftex.def)             Requested size: 113.81102pt x 90.48125pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1678
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1683--1684
+
+ []
+
+<Imazhet/Qarku R,L,C.png, id=121, 1565.85pt x 287.0725pt>
+File: Imazhet/Qarku R,L,C.png Graphic file (type png)
+<use Imazhet/Qarku R,L,C.png>
+Package pdftex.def Info: Imazhet/Qarku R,L,C.png  used on input line 1690.
+(pdftex.def)             Requested size: 199.16928pt x 36.51036pt.
+
+Overfull \hbox (30.00056pt too wide) in paragraph at lines 1691--1691
+[]\OT1/cmr/m/n/10 Figure 29: Qarku R(Rezistenca),L(Bobina),C(Kondesatori). 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1696--1697
+
+ []
+
+<Imazhet/valet.png, id=122, 1826.825pt x 1205.50375pt>
+File: Imazhet/valet.png Graphic file (type png)
+<use Imazhet/valet.png>
+Package pdftex.def Info: Imazhet/valet.png  used on input line 1731.
+(pdftex.def)             Requested size: 199.16928pt x 131.42857pt.
+<Imazhet/vale elastike.png, id=123, 1454.43375pt x 1103.12125pt>
+File: Imazhet/vale elastike.png Graphic file (type png)
+<use Imazhet/vale elastike.png>
+Package pdftex.def Info: Imazhet/vale elastike.png  used on input line 1739.
+(pdftex.def)             Requested size: 199.16928pt x 151.05263pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1752
+
+ []
+
+<Imazhet/Parimi i Hygensit.png, id=124, 1331.97626pt x 1387.1825pt>
+File: Imazhet/Parimi i Hygensit.png Graphic file (type png)
+<use Imazhet/Parimi i Hygensit.png>
+Package pdftex.def Info: Imazhet/Parimi i Hygensit.png  used on input line 1759
+.
+(pdftex.def)             Requested size: 170.71652pt x 177.77888pt.
+[16 <./Imazhet/Vektor C.png> <./Imazhet/Qarku R,L,C.png> <./Imazhet/valet.png> 
+<./Imazhet/Vale elastike.png>]
+Underfull \hbox (badness 4279) in paragraph at lines 1769--1770
+[]\OT1/cmr/bx/n/10 1.\OT1/cmr/m/n/10 N^^?ese $\OML/cmm/m/it/10 S[]$ \OT1/cmr/m/
+n/10 ^^?esht^^?e sip^^?erfaqe vale at^^?eher^^?e dhe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1774--1777
+
+ []
+
+<Imazhet/mbivendosja1.png, id=132, 572.89032pt x 167.87718pt>
+File: Imazhet/mbivendosja1.png Graphic file (type png)
+<use Imazhet/mbivendosja1.png>
+Package pdftex.def Info: Imazhet/mbivendosja1.png  used on input line 1783.
+(pdftex.def)             Requested size: 227.62204pt x 66.7014pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1791--1792
+
+ []
+
+<Imazhet/mbivendosja2.png, id=133, 479.54156pt x 208.52907pt>
+File: Imazhet/mbivendosja2.png Graphic file (type png)
+<use Imazhet/mbivendosja2.png>
+Package pdftex.def Info: Imazhet/mbivendosja2.png  used on input line 1796.
+(pdftex.def)             Requested size: 227.62204pt x 98.98233pt.
+<Imazhet/mbivendosja3.png, id=134, 447.17062pt x 180.675pt>
+File: Imazhet/mbivendosja3.png Graphic file (type png)
+<use Imazhet/mbivendosja3.png>
+Package pdftex.def Info: Imazhet/mbivendosja3.png  used on input line 1805.
+(pdftex.def)             Requested size: 227.62204pt x 91.96933pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1810--1814
+
+ []
+
+<Imazhet/mbivendosja4.png, id=135, 382.42876pt x 135.50626pt>
+File: Imazhet/mbivendosja4.png Graphic file (type png)
+<use Imazhet/mbivendosja4.png>
+Package pdftex.def Info: Imazhet/mbivendosja4.png  used on input line 1819.
+(pdftex.def)             Requested size: 227.62204pt x 80.65305pt.
+<Imazhet/mbivendosja5.png, id=136, 405.01312pt x 136.25906pt>
+File: Imazhet/mbivendosja5.png Graphic file (type png)
+<use Imazhet/mbivendosja5.png>
+Package pdftex.def Info: Imazhet/mbivendosja5.png  used on input line 1833.
+(pdftex.def)             Requested size: 227.62204pt x 76.58107pt.
+[17 <./Imazhet/Parimi i hygensit.png> <./Imazhet/mbivendosja1.PNG> <./Imazhet/m
+bivendosja2.PNG> <./Imazhet/mbivendosja3.PNG> <./Imazhet/mbivendosja4.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1866
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1869--1870
+
+ []
+
+<Imazhet/Valet e qendrueshme.png, id=145, 328.22626pt x 158.09062pt>
+File: Imazhet/Valet e qendrueshme.png Graphic file (type png)
+<use Imazhet/Valet e qendrueshme.png>
+Package pdftex.def Info: Imazhet/Valet e qendrueshme.png  used on input line 18
+74.
+(pdftex.def)             Requested size: 199.16928pt x 95.93097pt.
+
+Underfull \hbox (badness 2418) in paragraph at lines 1882--1883
+[]$\OML/cmm/m/it/10 B[]; B[]; B[]; B[]; B[]; B[] \OMS/cmsy/m/n/10 )$ \OT1/cmr/m
+/n/10 gropat dhe kresh-tat
+ []
+
+<Imazhet/Valet e qendrueshme1.png, id=146, 2260.445pt x 994.71625pt>
+File: Imazhet/Valet e qendrueshme1.png Graphic file (type png)
+<use Imazhet/Valet e qendrueshme1.png>
+Package pdftex.def Info: Imazhet/Valet e qendrueshme1.png  used on input line 1
+887.
+(pdftex.def)             Requested size: 199.16928pt x 87.6385pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1894--1895
+
+ []
+
+<Imazhet/Valet e qendrueshme2.png, id=147, 2310.6325pt x 997.7275pt>
+File: Imazhet/Valet e qendrueshme2.png Graphic file (type png)
+<use Imazhet/Valet e qendrueshme2.png>
+Package pdftex.def Info: Imazhet/Valet e qendrueshme2.png  used on input line 1
+900.
+(pdftex.def)             Requested size: 199.16928pt x 86.0008pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1908
+
+ []
+
+[18 <./Imazhet/mbivendosja5.PNG> <./Imazhet/Valet e qendrueshme.PNG> <./Imazhet
+/Valet e qendrueshme1.PNG> <./Imazhet/Valet e qendrueshme2.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 1930--1931
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1937--1938
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1941--1942
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1946
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1950--1951
+
+ []
+
+<Imazhet/Valetzanore.png, id=155, 1846.9pt x 914.41624pt>
+File: Imazhet/Valetzanore.png Graphic file (type png)
+<use Imazhet/Valetzanore.png>
+Package pdftex.def Info: Imazhet/Valetzanore.png  used on input line 1955.
+(pdftex.def)             Requested size: 227.62204pt x 112.69717pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1986--1987
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1991
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1994--1995
+
+ []
+
+<Imazhet/efekti dopler.png, id=156, 1454.43375pt x 1023.825pt>
+File: Imazhet/efekti dopler.png Graphic file (type png)
+<use Imazhet/efekti dopler.png>
+Package pdftex.def Info: Imazhet/efekti dopler.png  used on input line 2000.
+(pdftex.def)             Requested size: 199.16928pt x 140.19444pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2028--2029
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2030--2031
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2032--2033
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2034--2035
+
+ []
+
+[19 <./Imazhet/Valetzanore.png> <./Imazhet/efekti dopler.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2069--2070
+
+ []
+
+<Imazhet/Pasqyrimi.png, id=164, 1692.3225pt x 1388.18625pt>
+File: Imazhet/Pasqyrimi.png Graphic file (type png)
+<use Imazhet/Pasqyrimi.png>
+Package pdftex.def Info: Imazhet/Pasqyrimi.png  used on input line 2081.
+(pdftex.def)             Requested size: 227.62204pt x 186.69804pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2102--2103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2110--2111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2115--2116
+
+ []
+
+<Imazhet/ajer uje.png, id=165, 1613.02625pt x 1388.18625pt>
+File: Imazhet/ajer uje.png Graphic file (type png)
+<use Imazhet/ajer uje.png>
+Package pdftex.def Info: Imazhet/ajer uje.png  used on input line 2127.
+(pdftex.def)             Requested size: 227.62204pt x 195.89104pt.
+<Imazhet/uje ajer.png, id=166, 1570.86874pt x 1388.18625pt>
+File: Imazhet/uje ajer.png Graphic file (type png)
+<use Imazhet/uje ajer.png>
+Package pdftex.def Info: Imazhet/uje ajer.png  used on input line 2135.
+(pdftex.def)             Requested size: 227.62204pt x 201.14417pt.
+[20 <./Imazhet/Pasqyrimi.png> <./Imazhet/ajer uje.png>]
+<Imazhet/ajer-qelq-ajer.png, id=172, 2569.6pt x 1774.63pt>
+File: Imazhet/ajer-qelq-ajer.png Graphic file (type png)
+<use Imazhet/ajer-qelq-ajer.png>
+Package pdftex.def Info: Imazhet/ajer-qelq-ajer.png  used on input line 2169.
+(pdftex.def)             Requested size: 199.16928pt x 137.5324pt.
+<Imazhet/ajer-qelqprizmi-ajer.png, id=173, 2389.92876pt x 1407.2575pt>
+File: Imazhet/ajer-qelqprizmi-ajer.png Graphic file (type png)
+<use Imazhet/ajer-qelqprizmi-ajer.png>
+Package pdftex.def Info: Imazhet/ajer-qelqprizmi-ajer.png  used on input line 2
+178.
+(pdftex.def)             Requested size: 199.16928pt x 117.264pt.
+
+Underfull \hbox (badness 1264) in paragraph at lines 2190--2191
+[]\OT1/cmr/m/n/10 1.Shembellimi dhe ob-jekti kane nje lar-gesi te
+ []
+
+[21 <./Imazhet/uje ajer.png> <./Imazhet/ajer-qelq-ajer.png> <./Imazhet/ajer-qel
+qprizmi-ajer.png>]
+<Imazhet/pasqyra e rrafshet.png, id=180, 1982.40625pt x 1355.0625pt>
+File: Imazhet/pasqyra e rrafshet.png Graphic file (type png)
+<use Imazhet/pasqyra e rrafshet.png>
+Package pdftex.def Info: Imazhet/pasqyra e rrafshet.png  used on input line 220
+3.
+(pdftex.def)             Requested size: 199.16928pt x 136.13448pt.
+<Imazhet/pasqyra sferike e luget dhe myset.png, id=181, 1583.9175pt x 1381.16pt
+>
+File: Imazhet/pasqyra sferike e luget dhe myset.png Graphic file (type png)
+<use Imazhet/pasqyra sferike e luget dhe myset.png>
+Package pdftex.def Info: Imazhet/pasqyra sferike e luget dhe myset.png  used on
+ input line 2214.
+(pdftex.def)             Requested size: 176.40707pt x 153.8248pt.
+<Imazhet/pasqyra sferike e luget.png, id=182, 1770.615pt x 938.50626pt>
+File: Imazhet/pasqyra sferike e luget.png Graphic file (type png)
+<use Imazhet/pasqyra sferike e luget.png>
+Package pdftex.def Info: Imazhet/pasqyra sferike e luget.png  used on input lin
+e 2224.
+(pdftex.def)             Requested size: 227.62204pt x 120.64964pt.
+<Imazhet/pasqyra sferike e myset.png, id=183, 1699.34875pt x 1337.99875pt>
+File: Imazhet/pasqyra sferike e myset.png Graphic file (type png)
+<use Imazhet/pasqyra sferike e myset.png>
+Package pdftex.def Info: Imazhet/pasqyra sferike e myset.png  used on input lin
+e 2249.
+(pdftex.def)             Requested size: 227.62204pt x 179.21332pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2254--2255
+
+ []
+
+[22 <./Imazhet/pasqyra e rrafshet.png> <./Imazhet/pasqyra sferike e luget dhe m
+yset.png> <./Imazhet/pasqyra sferike e luget.png> <./Imazhet/pasqyra sferike e 
+myset.png>]
+Underfull \hbox (badness 5519) in paragraph at lines 2269--2270
+[]\OT1/cmr/m/n/10 4.Rrezet par-alele $\OMS/cmsy/m/n/10 k$ \OT1/cmr/m/n/10 me bo
+shtin op-tike pas
+ []
+
+<Imazhet/Objekti_ndodhet_ne_nje_largesi_me_te_madhe_se_vatra.png, id=191, 1397.
+22pt x 1096.095pt>
+File: Imazhet/Objekti_ndodhet_ne_nje_largesi_me_te_madhe_se_vatra.png Graphic f
+ile (type png)
+<use Imazhet/Objekti_ndodhet_ne_nje_largesi_me_te_madhe_se_vatra.png>
+Package pdftex.def Info: Imazhet/Objekti_ndodhet_ne_nje_largesi_me_te_madhe_se_
+vatra.png  used on input line 2279.
+(pdftex.def)             Requested size: 227.62204pt x 178.55653pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2290--2291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2294--2295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2303--2304
+
+ []
+
+<Imazhet/Objekti_ndodhet_ndermjet _vatres_dhe_pasqyres.png, id=192, 2292.565pt 
+x 1265.72874pt>
+File: Imazhet/Objekti_ndodhet_ndermjet _vatres_dhe_pasqyres.png Graphic file (t
+ype png)
+<use Imazhet/Objekti_ndodhet_ndermjet _vatres_dhe_pasqyres.png>
+Package pdftex.def Info: Imazhet/Objekti_ndodhet_ndermjet _vatres_dhe_pasqyres.
+png  used on input line 2306.
+(pdftex.def)             Requested size: 227.62204pt x 125.65324pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2311--2312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2320--2321
+
+ []
+
+<Imazhet/Shembellimi_i_nje_objekti_para_nje_pasqyre_te_myset.png, id=193, 1824.
+8175pt x 1039.885pt>
+File: Imazhet/Shembellimi_i_nje_objekti_para_nje_pasqyre_te_myset.png Graphic f
+ile (type png)
+<use Imazhet/Shembellimi_i_nje_objekti_para_nje_pasqyre_te_myset.png>
+Package pdftex.def Info: Imazhet/Shembellimi_i_nje_objekti_para_nje_pasqyre_te_
+myset.png  used on input line 2323.
+(pdftex.def)             Requested size: 227.62204pt x 129.69969pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2330--2331
+
+ []
+
+
+Underfull \vbox (badness 5175) has occurred while \output is active []
+
+ [23 <./Imazhet/Objekti_ndodhet_ne_nje_largesi_me_te_madhe_se_vatra.png> <./Ima
+zhet/Objekti_ndodhet_ndermjet _vatres_dhe_pasqyres.png> <./Imazhet/Shembellimi_
+i_nje_objekti_para_nje_pasqyre_te_myset.png>]
+<Imazhet/thierra_permbledhese.png, id=200, 1325.95375pt x 1220.56pt>
+File: Imazhet/thierra_permbledhese.png Graphic file (type png)
+<use Imazhet/thierra_permbledhese.png>
+Package pdftex.def Info: Imazhet/thierra_permbledhese.png  used on input line 2
+335.
+(pdftex.def)             Requested size: 170.71652pt x 157.13255pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2340--2341
+
+ []
+
+<Imazhet/thierra_permbledhese_F.png, id=201, 1880.02374pt x 590.205pt>
+File: Imazhet/thierra_permbledhese_F.png Graphic file (type png)
+<use Imazhet/thierra_permbledhese_F.png>
+Package pdftex.def Info: Imazhet/thierra_permbledhese_F.png  used on input line
+ 2343.
+(pdftex.def)             Requested size: 170.71652pt x 53.59346pt.
+<Imazhet/thjerra_shperndarse_F.png, id=202, 1863.96375pt x 1049.9225pt>
+File: Imazhet/thjerra_shperndarse_F.png Graphic file (type png)
+<use Imazhet/thjerra_shperndarse_F.png>
+Package pdftex.def Info: Imazhet/thjerra_shperndarse_F.png  used on input line 
+2355.
+(pdftex.def)             Requested size: 156.49014pt x 88.14482pt.
+<Imazhet/thjerra_shperndarse.png, id=203, 1112.155pt x 944.52875pt>
+File: Imazhet/thjerra_shperndarse.png Graphic file (type png)
+<use Imazhet/thjerra_shperndarse.png>
+Package pdftex.def Info: Imazhet/thjerra_shperndarse.png  used on input line 23
+64.
+(pdftex.def)             Requested size: 227.62204pt x 193.31258pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2376--2377
+
+ []
+
+<Imazhet/thj1.jpg, id=204, 1230.5975pt x 547.04375pt>
+File: Imazhet/thj1.jpg Graphic file (type jpg)
+<use Imazhet/thj1.jpg>
+Package pdftex.def Info: Imazhet/thj1.jpg  used on input line 2379.
+(pdftex.def)             Requested size: 256.0748pt x 113.83083pt.
+
+Overfull \hbox (26.5748pt too wide) in paragraph at lines 2379--2380
+[][] 
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 2384--2385
+\OT1/cmr/m/n/10 va-tres(F).Dhe shem-bel-limit nga va-tra del real,i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2384--2385
+
+ []
+
+[24 <./Imazhet/thierra_permbledhese.png> <./Imazhet/thierra_permbledhese_F.png>
+ <./Imazhet/thjerra_shperndarse_F.png> <./Imazhet/thjerra_shperndarse.png> <./I
+mazhet/thj1.jpg>]
+<Imazhet/thj2.jpg, id=212, 1230.5975pt x 636.3775pt>
+File: Imazhet/thj2.jpg Graphic file (type jpg)
+<use Imazhet/thj2.jpg>
+Package pdftex.def Info: Imazhet/thj2.jpg  used on input line 2391.
+(pdftex.def)             Requested size: 256.0748pt x 132.41971pt.
+
+Overfull \hbox (26.5748pt too wide) in paragraph at lines 2391--2392
+[][] 
+ []
+
+<Imazhet/thj3.jpg, id=213, 1230.5975pt x 744.7825pt>
+File: Imazhet/thj3.jpg Graphic file (type jpg)
+<use Imazhet/thj3.jpg>
+Package pdftex.def Info: Imazhet/thj3.jpg  used on input line 2401.
+(pdftex.def)             Requested size: 199.16928pt x 120.53136pt.
+
+Underfull \hbox (badness 7777) in paragraph at lines 2468--2469
+[]$\OML/cmm/m/it/10 ^^[ \OMS/cmsy/m/n/10 )$ \OT1/cmr/m/n/10 Stefan-Boltzmann ko
+n-stante $\OMS/cmsy/m/n/10 ^^Y$$\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 ; \OT1/cmr/m/
+n/10 67 \OMS/cmsy/m/n/10 ^^A
+ []
+
+[25 <./Imazhet/thj2.jpg> <./Imazhet/thj3.jpg>]
+<Imazhet/berthama.png, id=218, 994.71625pt x 861.2175pt>
+File: Imazhet/berthama.png Graphic file (type png)
+<use Imazhet/berthama.png>
+Package pdftex.def Info: Imazhet/berthama.png  used on input line 2521.
+(pdftex.def)             Requested size: 199.16928pt x 172.43756pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2565--2566
+
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 2567--2568
+[]$\OMS/cmsy/m/n/10 ^^O$ \OT1/cmr/bx/n/10 Grim-cat qe leshohen nga reak-sionet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2575--2576
+
+ []
+
+<Imazhet/reaksionet_.png, id=219, 1809.76125pt x 937.5025pt>
+File: Imazhet/reaksionet_.png Graphic file (type png)
+<use Imazhet/reaksionet_.png>
+Package pdftex.def Info: Imazhet/reaksionet_.png  used on input line 2578.
+(pdftex.def)             Requested size: 199.16928pt x 103.1685pt.
+[26 <./Imazhet/berthama.png> <./Imazhet/reaksionet_.png>] (./document.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 24851 strings out of 480877
+ 633111 string characters out of 5904914
+ 1212601 words of memory out of 5000000
+ 41609 multiletter control sequences out of 15000+600000
+ 406099 words of font info for 36 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 113i,7n,116p,934b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2020/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi5.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c
+:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2020/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy5.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+10.pfb>
+Output written on document.pdf (26 pages, 3636431 bytes).
+PDF statistics:
+ 277 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 328 words of extra memory for PDF output out of 10000 (max. 10000000)
+

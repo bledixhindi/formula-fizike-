@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Kinematika.}{2}{}%
+\contentsline {section}{\numberline {2}Lëvizja me nxitim.}{2}{}%
+\contentsline {section}{\numberline {3}Dinamika.}{2}{}%
+\contentsline {section}{\numberline {4}Rënia e lirë.}{2}{}%
+\contentsline {section}{\numberline {5}Lëvizja rrethore.}{3}{}%
+\contentsline {section}{\numberline {6}Vektorët.}{3}{}%
+\contentsline {section}{\numberline {7}Momenti i forcave.}{4}{}%
+\contentsline {section}{\numberline {8}Gazet}{4}{}%
+\contentsline {section}{\numberline {9}Inercia.}{5}{}%
+\contentsline {section}{\numberline {10}Impulsi.}{6}{}%
+\contentsline {section}{\numberline {11}Puna.}{6}{}%
+\contentsline {section}{\numberline {12}Lënda dhe materialet.}{7}{}%
+\contentsline {section}{\numberline {13}Elektriciteti.}{7}{}%
+\contentsline {section}{\numberline {14}Fusha magnetike.}{11}{}%
+\contentsline {section}{\numberline {15}Lëkundjet.}{13}{}%
+\contentsline {section}{\numberline {16}Valët.}{16}{}%
+\contentsline {section}{\numberline {17}Pasqyrimi.}{20}{}%
+\contentsline {section}{\numberline {18}Shembellimet.}{21}{}%
+\contentsline {section}{\numberline {19}Thjerrat.}{24}{}%
+\contentsline {section}{\numberline {20}Fizika kuantike.}{25}{}%
+\contentsline {section}{\numberline {21}Fizika berthamore.}{26}{}%
